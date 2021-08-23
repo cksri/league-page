@@ -1,17 +1,15 @@
 /*   STEP 1   */
-export const leagueID = "your_league_id"; // your league ID
-export const leagueName = "your_league_name"; // your league name
+export const leagueID = "733048231080099840"; // your league ID
+export const leagueName = "Telugu Tejalu"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Founded in 2019, the Telugu Tejalu league began as a redraft league amongst a group of six friends. The league added four more teams in 2020, and two more teams for the upcoming 2021 season which makes it a full-fledged 12 team league. In 2021, the league converted into a keeper league along with many other scoring changes to keep it exciting.</p>
+            <p>Some managers haven't watched a single match prior to participating in the league. It is only after they started playing in the league, they learned about how an nfl game works....the basic rules, the positions and the scoring. A manager drafted Tom Brady in the very first pick of our first draft. That should tell you enough about how this league started.</p>
+            <p>Despite these starting troubles, the league managed to learn a lot about the game. While the winning managers believe in strategy, losing managers blame it on the luck involved in the game to win.</p>
+            <p>Although the ultimate prize is bragging rights and sending obnoxious texts to the rest of the league for the next year, the champion manager also walks away with a cool fantasy football ring and a cash prize of $50.</p>
 `;
 
 /*   STEP 3   */
