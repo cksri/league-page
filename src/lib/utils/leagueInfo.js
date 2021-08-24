@@ -1,8 +1,8 @@
 /*   STEP 1   */
 export const leagueID = "733048231080099840"; // your league ID
 export const leagueName = "Telugu Tejalu"; // your league name
-export const dues = 100; // (optional) used in template constitution page
-export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
+export const dues = 10; // (optional) used in template constitution page
+export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 
 /*   STEP 2   */
 export const homepageText = `
