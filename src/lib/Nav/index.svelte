@@ -48,10 +48,10 @@
 	}
 
 	#logo {
-		width: 80px;
+		width: 240px;
 		display: block;
 		margin: 0 auto;
-		padding: 10px;
+		padding: 30px;
 	}
 
     .large {
@@ -84,7 +84,7 @@
 </style>
 
 <nav>
-	<a href="/"><img id="logo" alt="league logo" src="./badge.png" /></a>
+	<a href="/"><img id="logo" alt="league logo" src="https://i.imgur.com/8Zcjw6O.png" /></a>
 
 	<div class="container">
 		<IconButton
