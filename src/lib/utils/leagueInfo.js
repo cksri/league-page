@@ -277,7 +277,7 @@ export const managers = [
     "roster": 12, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Anudeep",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    "location": "Fort lauderdale", // (optional)
+    "location": "Fort Lauderdale", // (optional)
     "bio": "New entry to the league.",
     "photo": "/managers/bears.png", // square ratio recommended (no larger than 500x500)
     "fantasyStart": 2021, // (optional) when did the manager start playing fantasy football
