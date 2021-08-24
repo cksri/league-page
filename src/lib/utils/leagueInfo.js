@@ -23,7 +23,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#2-add-man
 
 export const managers = [
   {
-    "roster": 9, // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 1, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Charan ",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort Myers", // (optional)
@@ -33,9 +33,9 @@ export const managers = [
     "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // (optional) 'Win Now' or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
     "rival": {
-      name: "Guardians", // Can be anything (usually your rival's name)
-      link: 6, // manager array number within this array, or null to link back to all managers page
-      image: "/managers/guardians.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+      name: "Monstars", // Can be anything (usually your rival's name)
+      link: 3, // manager array number within this array, or null to link back to all managers page
+      image: "/managers/monstars.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
     },
     "favoritePlayer": 4046, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
     "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -46,7 +46,7 @@ export const managers = [
   },
     
    {
-    "roster": 1, // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 5, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Sanjeev",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Detroit", // (optional)
@@ -56,9 +56,9 @@ export const managers = [
     "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // (optional) 'Win Now' or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
     "rival": {
-      name: "Guardians", // Can be anything (usually your rival's name)
-      link: 6, // manager array number within this array, or null to link back to all managers page
-      image: "/managers/guardians.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+      name: "Monstars", // Can be anything (usually your rival's name)
+      link: 3, // manager array number within this array, or null to link back to all managers page
+      image: "/managers/monstars.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
     },
     "favoritePlayer": 4034, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
     "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -69,7 +69,7 @@ export const managers = [
   },
    
    {
-    "roster": 2, // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 4, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Abhimanyu",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Gainesville", // (optional)
@@ -92,7 +92,7 @@ export const managers = [
   },
     
    {
-    "roster": 3, // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 6, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Priyanka",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Chennai", // (optional)
@@ -115,7 +115,7 @@ export const managers = [
   },
     
    {
-    "roster": 4, // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 10, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Satish",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort Myers", // (optional)
@@ -138,7 +138,7 @@ export const managers = [
   },
     
    {
-    "roster": 5, // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 2, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Swaroop",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Denton", // (optional)
@@ -161,7 +161,7 @@ export const managers = [
   },
   
    {
-    "roster": 6, // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 3, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Siddharth",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Hyderabad", // (optional)
@@ -226,11 +226,11 @@ export const managers = [
     "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
     "philosophy": "Your fantasy team's philosophy.",
     "tradingScale": 5, // 1 - 10
-    "preferredContact": "Whatsapp", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone' and 'Carrier Pigeon' are currently supplied in the template
+    "preferredContact": "WhatsApp", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone' and 'Carrier Pigeon' are currently supplied in the template
   },
     
      {
-    "roster": 10, // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 9, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Tumma",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Pittsburgh", // (optional)
@@ -252,7 +252,7 @@ export const managers = [
     "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone' and 'Carrier Pigeon' are currently supplied in the template
   },    
      {
-    "roster": 11, // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 9, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Nitin",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Virginia", // (optional)
@@ -274,7 +274,7 @@ export const managers = [
     "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone' and 'Carrier Pigeon' are currently supplied in the template
   },   
      {
-    "roster": 12, // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 11, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Anudeep",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort lauderdale", // (optional)
