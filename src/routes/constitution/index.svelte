@@ -153,7 +153,6 @@
     </div>
     
     
-    
     <h3 bind:this={oneThree}>1.3 Waiver Wire</h3>
     
     <p>Rolling Waivers Waiver wire system. Waivers will process Tuesdays 3 AM EST.</p>
@@ -179,16 +178,17 @@
 
     <ol>
         <li>Playoff Points</li>
+	    <p> Each week teams get awarded playoff points based on their finish that week. So if you scored the most, you get 10 points, least gets 1 point. </p>
         <li>Head 2 Head Record</li>
         <li>Total Points For</li>
         <li>Coin Flip</li>
         <li>Duel to the death</li>
     </ol>
 
-    <h2 class="sectionHeading" bind:this={five}>Section 5: Tanking Policy</h2>
+    <h2 class="sectionHeading" bind:this={five}>Section 5: Keepers Policy</h2>
     
-    <h3 bind:this={fiveOne}>5.1 League Tanking Policy</h3>
-    <p>No team may intentionally leave starting roster spots empty. Any evidence of intentionally leaving roster spots empty in order to improve your draft position may be subject to punishment, including but not limited to the forfeiture of draft selections.</p>
+    <h3 bind:this={fiveOne}>5.1 Keepers Policy</h3>
+    <p>Each team gets to choose 2 keepers who can be retained for 2 more seasons. Keepers have to be specified right before the draft starts and teams lose the draft round picks based on the sleeper ADP of that respective player. ADP of 1 to 12 is Round 1, 12.1 to 24 is Round 2 and similar. </p>
 
     <h2 class="sectionHeading" bind:this={seven}>Section 6: League Finances</h2>
     
