@@ -178,7 +178,7 @@
 
     <ol>
         <li>Playoff Points</li>
-	    <p> Each week teams get awarded playoff points based on their finish that week. So if you scored the most, you get 10 points, least gets 1 point. </p>
+	    <p> Each week teams get awarded playoff points based on their finish that week. So if you scored the most, you get 12 points, least gets 1 point. </p>
         <li>Head 2 Head Record</li>
         <li>Total Points For</li>
         <li>Coin Flip</li>
